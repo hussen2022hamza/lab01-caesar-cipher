@@ -13,8 +13,10 @@
 
 # Реализация на Python
   def caesar_encrypt(text, shift):
- result = ""
+    result = ""
+    
  for char in text:
+ 
  if char.isalpha():
  shift_base = ord('а') if char.islower() else ord('А')
  result += chr((ord(char) - shift_base + shift) % 32 + shift_base)
@@ -46,4 +48,5 @@ print(f"Расшифрованный текст: {decrypted}")
 2. Шнайер Б. Прикладная криптография. — М.: Триумф, 2002.
 3. Алферов А.П. и др. Основы криптографии. — М.: Гелиос АРВ, 2002.
 4. https://ru.wikipedia.org/wiki/Шифр_Цезаря
+
 
