@@ -4,7 +4,7 @@
 • Тема: Шифр Цезаря (Caesar Cipher)
 • Тип шифра: Шифр простой (моноалфавитной) замены
 • Принцип: Замена каждого символа открытого текста на символ, сдвинутый
-на фиксированное число позиций в алфавите
+  на фиксированное число позиций в алфавите
 • Цель: Изучение основ классической криптографии и её практическое
 применение
 
@@ -96,4 +96,5 @@ header-includes:
 
 1. [Шифр Цезаря]([https://habr.com/ru/post/534058/](https://github.com/hussen2022hamza/Laboratory-task/blob/main/lab01/report/image/Screenshot%201.png))
 2. [Шифр Атбаш]([https://habr.com/ru/post/444176/](https://github.com/hussen2022hamza/Laboratory-task/blob/main/lab01/report/image/Screenshot%201.png))
+
 
