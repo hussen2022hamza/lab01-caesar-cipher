@@ -94,5 +94,6 @@ header-includes:
 
 # Список литературы{.unnumbered}
 
-1. [Шифр Цезаря](https://habr.com/ru/post/534058/)
-2. [Шифр Атбаш](https://habr.com/ru/post/444176/)
+1. [Шифр Цезаря]([https://habr.com/ru/post/534058/](https://github.com/hussen2022hamza/Laboratory-task/blob/main/lab01/report/image/Screenshot%201.png))
+2. [Шифр Атбаш]([https://habr.com/ru/post/444176/](https://github.com/hussen2022hamza/Laboratory-task/blob/main/lab01/report/image/Screenshot%201.png))
+
