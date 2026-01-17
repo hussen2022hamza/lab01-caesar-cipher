@@ -67,7 +67,7 @@ o Шифроалфавит: v g d e g z i ...
 
 ## Контрольный пример
 
-![шифр Цезаря](Screenshot%201.png){ #fig:001 width=50% height=50%}
+![шифр Цезаря](image/Screenshot%201.png){ #fig:001 width=50% height=50%}
 
 ![шифр Атбаш](image/Screenshot%202.png){ #fig:002 width=50% height=50%}
 
@@ -92,6 +92,7 @@ header-includes:
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
+
 
 
 
