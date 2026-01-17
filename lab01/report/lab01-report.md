@@ -42,7 +42,7 @@ o Шифроалфавит: v g d e g z i ...
 
 
 ### Слайд 6: Результаты выполнения
-![шифр Атбаш](Screenshot%201.png){ #fig:002 width=70% height=70%}
+![шифр Атбаш](Screenshot%202.png){ #fig:002 width=70% height=70%}
 Практическая демонстрация корректности шифрования и расшифрования
 
 ## Слайд 7: Преимущества и недостатки
@@ -89,11 +89,4 @@ header-includes:
 
 ![шифр Цезаря](Screenshot%201.png){ #fig:001 width=70% height=70%}
 
-![шифр Атбаш](image/Screenshot%201.png){ #fig:002 width=70% height=70%}
-
-
-
-
-
-
-
+![шифр Атбаш](image/Screenshot%202.png){ #fig:002 width=70% height=70%}
